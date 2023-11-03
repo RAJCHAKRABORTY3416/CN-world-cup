@@ -25,7 +25,7 @@
 
 ## About The Contest
 
-<img width="750" alt="Screenshot 2023-11-03 012716" src="https://github.com/RAJCHAKRABORTY3416/CN-world-cup/assets/76038637/00f3ff64-458b-417e-93f4-9d2412d96dbe">
+<img width="800" alt="Screenshot 2023-11-03 012716" src="https://github.com/RAJCHAKRABORTY3416/CN-world-cup/assets/76038637/00f3ff64-458b-417e-93f4-9d2412d96dbe">
 
 The Excitement is building, The Men in Blue are Ready, and The World Cup is ready to come home 🔥
 
