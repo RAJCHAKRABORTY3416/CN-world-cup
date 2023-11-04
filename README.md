@@ -21,7 +21,14 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/RAJCHAKRABORTY3416/CN-world-cup/total) ![Contributors](https://img.shields.io/github/contributors/RAJCHAKRABORTY3416/CN-world-cup?color=dark-green) ![Forks](https://img.shields.io/github/forks/RAJCHAKRABORTY3416/CN-world-cup?style=social) ![Stargazers](https://img.shields.io/github/stars/RAJCHAKRABORTY3416/CN-world-cup?style=social) ![Issues](https://img.shields.io/github/issues/RAJCHAKRABORTY3416/CN-world-cup) ![License](https://img.shields.io/github/license/RAJCHAKRABORTY3416/CN-world-cup) 
+<div align="center">
+<img src="https://img.shields.io/badge/Coding_World_Cup-2023-blue" alt="CN Badge"/>
+<img src="https://img.shields.io/github/contributors/RAJCHAKRABORTY3416/CN-world-cup?color=dark-green" alt="CN Badge"/>
+<img src="https://img.shields.io/static/v1?label=%E2%AD%90&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+<a href="https://github.com/kishanrajput23" ><img src="https://img.shields.io/badge/Contributions-welcome-green.svg?style=flat&logo=github" alt="Contributions" /></a>
+<img src="https://img.shields.io/badge/Coding%20Ninjas-8A2BE2" alt="CN Badge"/>
+</div>
+
 
 ## About The Contest
 
