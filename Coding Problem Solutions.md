@@ -1380,17 +1380,6 @@ int simpleString(std::string s) {
 }
 ```
 
-### Problem Number 83
-
-```cpp
-int gearSelection(int n) {
-    int total_combinations = n * n;
-    int different_color_combinations = total_combinations - n;
-
-    return different_color_combinations;
-}
-```
-
 ### Problem Number 85
 
 ```cpp
