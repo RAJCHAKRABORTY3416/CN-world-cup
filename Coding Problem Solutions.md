@@ -658,21 +658,6 @@ int pickingThree(int n, vector<int> &a) {
                                 }
 ```
 
-### Problem Number 38
-
-```cpp
-int maximumSquareDivisor(int n) {
- // Write your code here
- int maxSpeed = 1;
-  for (int x=2; x<= sqrt(n); x++){
-   if (n% (x*x)==0){
-    maxSpeed=x;
-   }
-  } 
- return maxSpeed;
-}
-```
-
 ### Problem Number 46
 
 ```cpp
